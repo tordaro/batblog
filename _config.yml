@@ -1,1 +1,13 @@
+title: The Batman Blog
+author: Tordaro
+email: tordaro@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Blog about Batman. There needs to be more blogs about Batman.
+  
+# social links
+twitter_username: your-twitter-handle
+github_username:  https://github.com/tordaro
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
 theme: jekyll-theme-midnight
